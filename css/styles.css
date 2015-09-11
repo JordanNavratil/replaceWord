@@ -1,0 +1,19 @@
+h1 {
+
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-style: bold;
+    color: black;
+    text-align: center;
+    font-size: 500%;
+}
+
+/*h2 {
+    font-family:monospace;
+    font-style: bold;
+    color: AA8208;
+    font-size: 150%;
+}*/
+
+body {
+    background-size: 75%;
+}
