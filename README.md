@@ -12,9 +12,7 @@ A website where a user enters a string, chooses a word to find and provides a re
 
 ##Setup
 
-Clone this repository. Run the command $composer install in the top level of the cloned directory. Open a  server in the web folder of the top level. For a mac, run the following command in your terminal.
-
-PHP -S localhost:8000. Then open your web browser of choice to localhost:8000
+Clone this repository. Open replaceWord.html
 
 ##Technologies Used
 
